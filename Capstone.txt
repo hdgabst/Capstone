@@ -1,0 +1,13 @@
+ Here are some guide-lines to help direct you as you decide on research your Capstone subject ...
+ - Create a Definition Statement / Question for your DAP Capstone something like the example below...
+		-I want to build a data analysis that answers the following question about (insert some or
+I want to build a data analysis comparing luxery brand ROI in comparison with stocks, and real estate within x amount of years. . 
+
+		 other subject here): My question is this ...(insert your question here ...).
+- Write a Definition of the Audience / type of personas that might be interested in this analysis.
+- What datasets do I need to help me answer the above question for my particular audience?
+- What other materials could enhance my presentation around this subject? Images, tables, graphics, descriptive information ???
+- What research do I need to do to find data sources for my Capstone?
+	- List resources researched: (links to websites / materials)
+	- Note what you like about each resource and why you chose it
+	- Name other reference sources you want to consult
